@@ -1,0 +1,20 @@
+# Data files
+master_data_restricted.csv
+*.csv
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+venv/
+.env
+
+# Images (optional, keep if you want to share)
+*.png
+*.jpg 
